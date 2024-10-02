@@ -1,0 +1,5 @@
+{
+  "github.copilot.advanced": {
+    "debug.overrideEngine": "copilot-prod-finetune-centralus.Treadstone-Industries-r4ao9o71a539"
+  }
+}
